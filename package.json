@@ -1,0 +1,17 @@
+{
+  "name": "recpro",
+  "version": "1.0.0",
+  "description": "A Project which can automatically joins a meeting , makes imp notes and also sets the next meeting scheduled.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/selenium-webdriver": "^4.1.28",
+    "selenium-webdriver": "^4.27.0",
+    "typescript": "^5.7.3"
+  }
+}
