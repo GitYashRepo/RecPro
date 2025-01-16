@@ -1,5 +1,5 @@
 {
-  "name": "recpro",
+  "name": "spawner",
   "version": "1.0.0",
   "description": "A Project which can automatically joins a meeting , makes imp notes and also sets the next meeting scheduled.",
   "main": "index.js",
